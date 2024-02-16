@@ -1,0 +1,20 @@
+2024-02-16 19:38:33.184 [ INFO] [           main] c.m.s.c.CourseTrackerApplication         : Starting CourseTrackerApplication using Java 18 on DESKTOP-1R6GB0A with PID 15328 (C:\Users\Verucchio\Desktop\spring-boot-logging-with-log4j2\target\classes started by Verucchio in C:\Users\Verucchio\Desktop\spring-boot-logging-with-log4j2)
+2024-02-16 19:38:33.213 [DEBUG] [           main] c.m.s.c.CourseTrackerApplication         : Running with Spring Boot v2.6.3, Spring v5.3.15
+2024-02-16 19:38:33.215 [ INFO] [           main] c.m.s.c.CourseTrackerApplication         : No active profile set, falling back to default profiles: default
+2024-02-16 19:38:34.729 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-16 19:38:34.730 [ INFO] [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2024-02-16 19:38:34.731 [ INFO] [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2024-02-16 19:38:34.817 [ INFO] [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2024-02-16 19:38:35.228 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2024-02-16 19:38:35.263 [ INFO] [           main] c.m.s.c.CourseTrackerApplication         : Started CourseTrackerApplication in 2.473 seconds (JVM running for 4.843)
+2024-02-16 19:38:35.267 [ INFO] [           main] c.m.s.c.CourseTrackerApplication         : CourseTrackerApplication started successfully with Log4j2 configuration
+2024-02-16 19:43:34.651 [ INFO] [           main] c.m.s.c.CourseTrackerApplication         : Starting CourseTrackerApplication using Java 18 on DESKTOP-1R6GB0A with PID 14536 (C:\Users\Verucchio\Desktop\spring-boot-logging-with-log4j2\target\classes started by Verucchio in C:\Users\Verucchio\Desktop\spring-boot-logging-with-log4j2)
+2024-02-16 19:43:34.666 [DEBUG] [           main] c.m.s.c.CourseTrackerApplication         : Running with Spring Boot v2.6.3, Spring v5.3.15
+2024-02-16 19:43:34.666 [ INFO] [           main] c.m.s.c.CourseTrackerApplication         : No active profile set, falling back to default profiles: default
+2024-02-16 19:43:36.102 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-16 19:43:36.103 [ INFO] [           main] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2024-02-16 19:43:36.104 [ INFO] [           main] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2024-02-16 19:43:36.195 [ INFO] [           main] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2024-02-16 19:43:36.639 [ INFO] [           main] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2024-02-16 19:43:36.676 [ INFO] [           main] c.m.s.c.CourseTrackerApplication         : Started CourseTrackerApplication in 2.492 seconds (JVM running for 3.552)
+2024-02-16 19:43:36.680 [ INFO] [           main] c.m.s.c.CourseTrackerApplication         : CourseTrackerApplication started successfully with Log4j2 configuration
