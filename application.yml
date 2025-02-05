@@ -1,0 +1,2 @@
+spring.name = test-service-config
+server.port = 6000
