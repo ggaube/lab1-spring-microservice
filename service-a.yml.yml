@@ -1,5 +1,0 @@
-server:
-  port: 8081
-
-custom:
-  property: value-for-service-a
