@@ -2,4 +2,4 @@ server:
   port: 8081
 
 custom:
-  property: value-for-service-a
+  property: das ist die YAML Datei aus Github
